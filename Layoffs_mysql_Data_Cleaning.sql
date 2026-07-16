@@ -330,7 +330,7 @@ FROM world_layoffs.layoffs_staging2;
 
 
 -- =============================================================================
--- PHASE 4: DROP UNNECESSARY ROWS & COLUMNS
+-- PHASE 4: DROP UNNECESSARY ROWS & COLUMNS.
 -- =============================================================================
 
 -- Identify rows that lack any significant layoff metrics
